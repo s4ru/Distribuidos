@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "598154497581",
+    "firebase_url": "https://clicker-3e1c5-default-rtdb.firebaseio.com",
+    "project_id": "clicker-3e1c5",
+    "storage_bucket": "clicker-3e1c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598154497581:android:890f30831698bd1c89f2a4",
+        "android_client_info": {
+          "package_name": "com.saru.unity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK7SnH3vSds6TGcUDyhHmIFpafS_Tdh2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
